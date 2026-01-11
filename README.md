@@ -1,3 +1,5 @@
+## Internship notice
+this project was implemented as a part of first user story
 ## Features
 - Fetches employee data from an external API
 - Validates required fields in the API response
